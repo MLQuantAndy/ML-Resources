@@ -3,7 +3,8 @@ This repository consolidates Machine Learning, Deep Learning, AI goodies from al
 
 
 ## Important pages:
-https://www.cs.toronto.edu/~hinton/
+1. https://www.cs.toronto.edu/~hinton/
+2. http://deeplearning.net/
 
 ## Important Blogs (mostly from Quora):
 1. John Langford’s Machine Learning (Theory): http://hunch.net
