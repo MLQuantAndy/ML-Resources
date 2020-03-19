@@ -25,3 +25,6 @@ https://www.cs.toronto.edu/~hinton/
 17. Fernando Pereira’s Earning My Turns: http://earningmyturns.blogspot.com
 18. Bob Carpenter’s LingPipe Blog: http://lingpipe-blog.com/
 19. Good statistics blogs: https://www.thebestcolleges.org/rankings/best-statistics-blogs/
+
+## Important books:
+1. https://github.com/loveunk/Deep-learning-books
